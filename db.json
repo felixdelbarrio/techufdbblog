@@ -1,1 +1,30 @@
-
+[
+  {
+    "postId": 1,
+    "id": 1,
+    "name": "Pedro del Barrio",
+    "email": "pedro@brasero.com",
+    "body": "Banca Agile es lo que siempre he necesitado para mi negocio. Son rápidos y formales. Desde que soy cliente ya no puedo entender la banca de otra forma"
+  },
+  {
+    "postId": 1,
+    "id": 2,
+    "name": "Cristina Cebrian",
+    "email": "cristinac@telefonica.com",
+    "body": "Por fin una banca que no es dificil de entender por la gente mayor..."
+  },
+  {
+    "postId": 1,
+    "id": 3,
+    "name": "Pablo Gonzalez Prim",
+    "email": "pablo@prim.es",
+    "body": "Me robaron la tarjeta de credito y me ayudaron en todo. Estaba de viaje y me llevaron el plastico al hotel de Budapest. ¿Que mas puedo pedir?"
+  },
+  {
+    "postId": 1,
+    "id": 4,
+    "name": "Simón del Barrio",
+    "email": "Simon@hotmail.com",
+    "body": "Sino es por Bank Agile todavía estaría esperando para poder comprarme la PS4. Hable con ellos y en tan solo una hora ya tenía el dinero en la cuenta"
+  },
+  ]
